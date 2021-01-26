@@ -1,0 +1,137 @@
+@media screen and (min-width: 992px) and (max-width: 1200px){
+	.text h2 {font-size: 43px;}
+	.text p {font-size: 19px;}
+	.education, .aim_hobby, .brm { width: 308px;}
+	.brm {margin-right: 114px;}
+	.skills {width: 700px;}
+	.service_content, .bsrm {width: 359px;}
+	.bsrm {margin-right: 105px;}
+	.input_name, .input_email, .input_submit { width: 360px;}
+	.contact_textarea textarea { width: 360px}
+	.social_icon {margin-bottom: 0;}
+	.spans_text {text-align: center;}
+	.contact_me_bg {border-bottom: 1px solid #3a4b4e;}
+	.skills {margin: 0 auto; margin-top: 30px;}
+	.social_icon {margin-top: 20px; margin-bottom: 20px;}
+}
+@media screen and (min-width:768px) and (max-width: 991px){
+.sameservice {margin-bottom: 40px;}
+/*Header Area*/
+.bp {margin-left: 300px; position: relative; display: flex;}
+.img {margin:0 auto; width: 220px; margin-top: 30px;}
+.header_color {border-bottom: solid 1px #3a4b4e;}
+.text h2 {margin-top: 50px;text-align: center; font-size: 32px; }
+.text p {text-align: center; font-size: 15px;}
+.hmb {float: center; width: 96px; margin-top: 35px; height: 50px;}
+
+
+/*About Me Area*/
+.amb {margin-top: 60px;}
+.education{margin:0 auto; margin-top: 160px;}
+.aim_hobby{margin:0 auto; margin-top:60px;}
+.aim_hobby, .education{width: 372px;}
+.brm, .brms {width: 372px; margin:0 auto; margin-top: 10px;}
+.about_me {border-bottom: 1px solid #3a4b4e; padding-bottom: 40px;}
+
+/*Experience Area*/
+.be {margin: 0 auto; margin-top: 60px;}
+.skills { margin:0 auto; margin-top: 30px;}
+.cc { margin:0 auto;}
+.experience {padding-bottom: 20px;}
+.experience {border-bottom: 1px solid #3a4b4e;}	
+
+/*Service Area*/
+.service_content, .brm_sec, .bsrm {width: 400px; margin:0 auto;}
+.service_content {margin-top: 50px;}
+.brm_sec, .bsrm {margin-top: 10px;}
+.service_bg {border-bottom: 1px solid #3a4b4e; padding-bottom:50px;}
+
+/*Contact Me Area*/
+.bcm {}
+.contact_input_tbl {margin-top: 40px; margin-right: 80px;}
+.contact_input {margin:0 auto; margin-top: 140px; margin-right: 100px;}
+.contact_textarea {margin:0 auto; margin-top: 60px; margin-left: 92px;}
+.contact_textarea textarea {width: 350px; margin-left: 5px;}
+
+
+/*Copyright and Social Icon Area*/
+.spans_text {margin-left: -1px;}
+
+}
+
+@media screen and (min-width:480px) and (max-width: 767px){
+.bp {width: 95px;}
+.img {width: 250px; margin: 0 auto; margin-top: 20px;}
+.text {margin-top: 10px;}
+.text h2{font-size: 29px; margin-top: 30px;}
+.text p{font-size: 17px; padding: 5px;}
+.header_color {border-bottom: 1px solid #3a4b4e;}
+.education, .aim_hobby {width: 300px;}
+.brm, .brms {margin:0 auto; margin-top: 10px; width: 300px;}
+.education{margin:0 auto; margin-top: 175px; }
+.aim_hobby {margin:0 auto; margin-top: 90px; }
+.about_me {border-bottom: 1px solid #3a4b4e;}
+.c {width: 450px; margin: 0 auto;}
+.experience {border-bottom: 1px solid #3a4b4e;}
+.service_content {margin:0 auto; width:300px;}
+.web {margin-top: 50px;}
+.graphic {margin-top: 50px;}
+.brm_sec, .bsrm {margin:0 auto; margin-top: 10px; width: 300px; margin-bottom: 30px;}
+.service_bg {border-bottom: 1px solid #3a4b4e;}
+.contact_textarea {margin:0 auto; margin-top: 50px;}
+.contact_textarea textarea {width:360px; margin:0 auto;}
+.contact_input {margin:0 auto;}
+.input_email, .input_name {width: 360px; margin: 0 auto; margin-top: 30px;}
+.input_submit {width: 360px; margin:0 auto; margin-top: 30px;}
+}
+
+@media screen and (min-width:320px) and (max-width: 479px){
+.bp {width: 95px;}
+.img {width: 250px; margin: 0 auto; margin-top: 20px;}
+.text {margin-top: 10px;}
+.text h2{font-size: 29px; margin-top: 30px;}
+.text p{font-size: 17px; padding: 5px;}
+.header_color {border-bottom: 1px solid #3a4b4e;}
+.education, .aim_hobby {width: 290px;}
+.brm, .brms {margin:0 auto; margin-top: 10px; width: 290px;}
+.education{margin:0 auto; margin-top: 175px; }
+.aim_hobby {margin:0 auto; margin-top: 90px; }
+.about_me {border-bottom: 1px solid #3a4b4e;}
+.c {width: 290px; margin: 0 auto;}
+.experience {border-bottom: 1px solid #3a4b4e;}
+.service_content {margin:0 auto; width:290px;}
+.web {margin-top: 50px;}
+.graphic {margin-top: 50px;}
+.brm_sec, .bsrm {margin:0 auto; margin-top: 10px; width: 290px; margin-bottom: 30px;}
+.service_bg {border-bottom: 1px solid #3a4b4e;}
+.contact_textarea textarea {width:300px; margin-top:-110px;}
+.contact_input {margin:0 auto;}
+.input_email, .input_name {width: 300px; margin: 0 auto; margin-top: 30px; margin-left: 10px;}
+.input_submit {width: 300px; margin:0 auto; margin-top: 30px;}
+}
+
+@media screen and (min-width: 240px) and (max-width: 319px){
+.bp {width: 95px;}
+.img {width: 200px; margin: 0 auto; margin-top: 20px;}
+.text {margin-top: 10px;}
+.text h2{font-size: 29px; margin-top: 30px;}
+.text p{font-size: 17px; padding: 5px;}
+.header_color {border-bottom: 1px solid #3a4b4e;}
+.education, .aim_hobby {width: 220px;}
+.brm, .brms {margin:0 auto; margin-top: 10px; width: 220px;}
+.education{margin:0 auto; margin-top: 175px; }
+.aim_hobby {margin:0 auto; margin-top: 90px; }
+.about_me {border-bottom: 1px solid #3a4b4e;}
+.c {width: 290px; margin: 0 auto;}
+.experience {border-bottom: 1px solid #3a4b4e;}
+.service_content {margin:0 auto; width:220px;}
+.web {margin-top: 50px;}
+.graphic {margin-top: 50px;}
+.brm_sec, .bsrm {margin:0 auto; margin-top: 10px; width: 220px; margin-bottom: 30px;}
+.service_bg {border-bottom: 1px solid #3a4b4e;}
+.contact_textarea textarea {width:220px; margin-top:-110px;}
+.contact_input {margin:0 auto;}
+.input_email, .input_name {width: 220px; margin: 0 auto; margin-top: 30px;}
+.input_submit {width: 220px; margin:0 auto; margin-top: 30px;}
+.fb img, .tw img, .in img, .yt img, .ld img, .gp img {width:28px; margin: 0 auto;}
+}
