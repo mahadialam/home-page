@@ -7,7 +7,7 @@
 	.service_content, .bsrm {width: 359px;}
 	.bsrm {margin-right: 105px;}
 	.input_name, .input_email, .input_submit { width: 360px;}
-	.contact_textarea textarea { width: 360px}
+	.contact_textarea textarea { width: 360px; height: 178px;}
 	.social_icon {margin-bottom: 0;}
 	.spans_text {text-align: center;}
 	.contact_me_bg {border-bottom: 1px solid #3a4b4e;}
@@ -49,9 +49,10 @@
 /*Contact Me Area*/
 .bcm {}
 .contact_input_tbl {margin-top: 40px; margin-right: 80px;}
-.contact_input {margin:0 auto; margin-top: 140px; margin-right: 100px;}
+.contact_input { margin:0 auto; margin-top: 140px; margin-right: 100px;}
 .contact_textarea {margin:0 auto; margin-top: 60px; margin-left: 92px;}
 .contact_textarea textarea {width: 350px; margin-left: 5px;}
+.input_submit {width: 350px;}
 
 
 /*Copyright and Social Icon Area*/
