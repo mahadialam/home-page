@@ -509,10 +509,10 @@ textarea {
 .input_submit{
 	float: right;
 }
-.input_name, .input_email{
+.input_name, .input_email,.input_submit {
 	margin-left: px;
 }
-.input_name, .input_email, .input_submit{
+.input_name, .input_email{
 	border: 1px solid #3a4b4e;
 	width: 350px;
 	padding: 10px;
@@ -522,6 +522,18 @@ textarea {
 	border-radius: 8px;
 	transition: .9s;
 }
+
+.input_submit {
+		padding: 10px;
+	margin-top: 30px;
+	outline: none;
+	overflow: hidden;
+	border-radius: 8px;
+	transition: .9s;
+	border: 1px solid #3a4b4e;
+	
+	width: 459px;
+	}
 
 .input_submit:hover {
 	background:#3a4b4e;
@@ -545,10 +557,8 @@ textarea {
 .contact_me_bg {border-bottom: 1px solid #3a4b4e;}
 /*-----Copyright Area-----*/
 
-.spans_text{
+.spans_text span{
 	margin: 0 auto;
-	margin-left: 24px;
-	margin-top: 30px;
 }
 
 .social_icon_bg {background:#333333;}
@@ -560,6 +570,10 @@ textarea {
 	margin-bottom: 20px;
 }
 .copyright_bg {background: #333333;}
+
+/*===== Project Page Design ======*/
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
